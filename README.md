@@ -7,12 +7,12 @@ Images and corresponding probability that are predicted right
 Images and corresponding probability that are predicted wrong
 
 
-1. Model
+1. Model : model2 - Maxpool layer
 
 ![model_1](https://user-images.githubusercontent.com/55437034/83378301-4c520900-a413-11ea-8f80-0a0459145b8d.PNG)
 ![model_2](https://user-images.githubusercontent.com/55437034/83378304-4d833600-a413-11ea-81e5-c43075186302.PNG)
 
-2. Training with Training loss
+2. Training with Training loss : 5Epoch
 
 ![test](https://user-images.githubusercontent.com/55437034/83378307-4e1bcc80-a413-11ea-9f9f-7ce00eaee840.PNG)
 
